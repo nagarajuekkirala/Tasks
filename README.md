@@ -31,5 +31,6 @@ I'm here to support you every step of the way. Remember that your education is a
 
 Best regards,
 
-Nagaraju Ekkirala
+Nagaraju Ekkirala,
+
 Data Scientist
